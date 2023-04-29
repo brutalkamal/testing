@@ -14,6 +14,7 @@ public class CompanyData {
 		System.out.println(intern);
 		int indexOf = b.indexOf(1, 1);
 		System.out.println(indexOf);
+		System.out.println("kamal");
 		
 		
 		
